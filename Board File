@@ -1,0 +1,21 @@
+{
+  "users": {
+    "user_001": {
+      "live": {
+        "heartRate": 0,
+        "spo2": 0,
+        "temperature": 0,
+        "accelMagnitude": 0,
+        "tiltAngle": 0,
+        "fallRisk": false
+      },
+      "history": {
+        "timestamp_1": {
+          "heartRate": 0,
+          "spo2": 0,
+          "temperature": 0
+        }
+      }
+    }
+  }
+}
